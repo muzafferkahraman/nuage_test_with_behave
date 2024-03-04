@@ -1,7 +1,6 @@
+I prepared this repo to demo a typical behave module application to test Nuage SDN configuration.This repo provides an example to verify that the enterprise list of a Nuage VSD, matches with the given list
+
 Behavior Driven Development (BDD) is a branch of Test Driven Development (TDD). BDD uses human-readable descriptions of software user requirements as the basis for software tests
-
-
-This repo provides an example to verify that the enterprise list of a Nuage VSD, matches with the given list
 
 The project folder structure is as below
 
